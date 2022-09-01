@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.canvas, .canvass {
+    margin: 20px;
+    background-color: #000;
+}
+.Abebe {
+    padding: 50px;
+    font-size: 40px;
+    color: #0442a0;
+    display: none;
+}
+.kebede{
+    display: flex;
+}
+.beso{
+    display: flex;
+}
+.kenenisa{
+    display: block;
+    margin: auto;
+}
